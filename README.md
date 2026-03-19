@@ -1,213 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00ff41&height=200&section=header&text=SAMARTH%20RAUT&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=40&stroke=00ff41&strokeWidth=1&desc=~/full-stack-dev/pict-pune&descSize=16&descAlignY=60&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Samarth%20Raut&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.E.%20AI%20%26%20DS%20%40%20PICT%20Pune&descSize=17&descColor=ffffffcc&descAlignY=60" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://patient-management-system-six-teal.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=6E9EF7&center=true&vCenter=true&width=580&lines=Building+scalable+full-stack+applications;PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Integration;SDE+Intern+%40+PHICSIT+InfoTech;Top+1.1%25+MHT-CET+%7C+NDA%2FSSB+Cleared+%7C+CGPA+9.5)](https://git.io/typing-svg)
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+initializing+profile...;%3E+loading+tech_stack...done+%E2%9C%93;%3E+PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Apps;%3E+top_1.1%25+MHT-CET+%7C+NDA%2FSSB+cleared;%3E+250%2B+leetcode+%7C+codechef_1544;%3E+currently_building+--production;%3E+awaiting+your+input..._%)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/samarth-raut)
-[![GitHub](https://img.shields.io/badge/-%20GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/Samarth1542005)
-[![LeetCode](https://img.shields.io/badge/-%20LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=00ff41&labelColor=0d1117)](https://leetcode.com)
-[![CodeChef](https://img.shields.io/badge/-%20CodeChef-0a0a0a?style=for-the-badge&logo=codechef&logoColor=00ff41&labelColor=0d1117)](https://codechef.com)
-[![Mail](https://img.shields.io/badge/-%20Mail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:rautsamarth282@gmail.com)
-
-![Visitors](https://komarev.com/ghpvc/?username=Samarth1542005&color=00ff41&style=flat-square&label=visitors)
-
-</div>
-
-<br/>
-
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ cat about.json
-```
-
-```json
-{
-  "name"       : "Samarth Raut",
-  "role"       : "Full-Stack Developer",
-  "college"    : "Pune Institute of Computer Technology (PICT)",
-  "degree"     : "B.E. — Artificial Intelligence & Data Science",
-  "batch"      : "2023 → 2027",
-  "cgpa"       : "9.5 / 10",
-  "location"   : "Pune, Maharashtra, India",
-  "currently"  : "SDE Intern @ PHICSIT InfoTech Pvt. Ltd",
-  "building"   : "Production-grade full-stack apps with AI integration",
-  "fun_facts"  : ["Top 1.1% MHT-CET", "Cleared NDA/SSB Interview"],
-  "contact"    : "rautsamarth282@gmail.com"
-}
-```
-
-<br/>
-
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ ls tech-stack/
-```
-
-**`// Languages`**
-
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff41&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41&labelColor=0d1117)
-
-**`// Frameworks & Libraries`**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff41&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff41&labelColor=0d1117)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00ff41&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00ff41&labelColor=0d1117)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=00ff41&labelColor=0d1117)
-![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0d1117)
-
-**`// Databases & DevOps`**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff41&labelColor=0d1117)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=00ff41&labelColor=0d1117)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00ff41&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00ff41&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00ff41&labelColor=0d1117)
-
-<br/>
-
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ cat experience.log
-```
-
-```
-[Feb 2026 → Present]  PHICSIT InfoTech Pvt. Ltd — Software Development Intern
-──────────────────────────────────────────────────────────────────────────────
-► Architected Campus Ambassador Portal (PERN Stack)
-  └─ 18+ secure REST APIs · JWT Auth · Role-Based Access Control (RBAC)
-
-► Built automated Leaderboard Engine
-  └─ Real-time ranking via background processing on ambassador submissions
-
-► Developed KPI Dashboards synced with Google Sheets API
-  └─ Reduced manual data entry for finance team by 30%
-
-► Prisma ORM for type-safe DB modeling
-  └─ Improved query performance across activity logs
-```
-
-<br/>
-
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ ls projects/ -la
-```
-
-```
-drwxr-xr-x  medicare-patient-management    [LIVE @ Vercel]
-drwxr-xr-x  codesphere-discussion-forum    [GitHub]
-```
 
 ---
 
-### `medicare` — Production Healthcare Platform
+## About
 
-> `React 18` `Node.js` `Express` `Prisma` `PostgreSQL` `Supabase` `Groq LLaMA` `Zustand` `Tailwind`
+I'm a Full-Stack Developer and B.E. AI & DS student at **PICT Pune** (CGPA: 9.5). I build production-grade web applications with clean architecture, focusing on scalability, type-safety, and real-world impact. Currently interning at **PHICSIT InfoTech**, where I work on the full PERN stack with JWT auth, RBAC, and real-time data systems.
 
-🌐 **[patient-management-system-six-teal.vercel.app](https://patient-management-system-six-teal.vercel.app)**
-
-```
-✦ Full RBAC system — Doctor / Patient portals with JWT + Supabase email verification
-✦ AI Symptom Checker powered by Groq LLaMA — conditions, severity & specialist routing
-✦ Doctor portal — appointments, prescriptions, NMC verification, patient management
-✦ Patient portal — booking, vitals tracking, medical history, prescription viewer
-✦ Deployed: Vercel (FE) + Render (BE) + Supabase (DB & Auth)
-```
+- 🏛️ **Pune Institute of Computer Technology** — B.E. AI & DS, 2023–2027
+- 💼 **SDE Intern** @ PHICSIT InfoTech Pvt. Ltd (Feb 2026 – Present)
+- 🏆 Top **1.1%** in MHT-CET | Cleared **NDA/SSB** Interview
+- 📍 Pune, Maharashtra, India
 
 ---
 
-### `codesphere` — High-Performance Discussion Forum
+## Tech Stack
 
-> `MERN Stack` `JWT` `Bcrypt` `MongoDB` `Bootstrap`
+**Languages**
 
-```
-✦ Persistent auth with JWT + Bcrypt encryption & secure session management
-✦ NoSQL schema supporting nested comment threads & polymorphic user-tag associations
-✦ Custom search — RegEx + DB indexing → 40% reduction in query latency
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-<br/>
+## Experience
 
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ cat achievements.txt
-```
+**Software Development Intern — PHICSIT InfoTech Pvt. Ltd** `Feb 2026 – Present`
 
-```
-[★] MHT-CET          →  Top 1.1% across Maharashtra
-[★] NDA / SSB        →  Interview cleared
-[★] CodeChef         →  Peak rating 1544 (Starters 228)
-[★] LeetCode         →  250+ problems solved — DSA · Graphs · DP
-[★] CGPA             →  9.5 / 10 @ PICT Pune
-```
+- Architected a **Campus Ambassador Portal** on the PERN stack with 18+ secure REST API endpoints, JWT authentication, and Role-Based Access Control (RBAC)
+- Built an **automated Leaderboard Engine** using background processing to compute real-time rankings from ambassador submissions
+- Developed **KPI Dashboards** syncing Google Sheets data via APIs, cutting manual data entry for the finance team by **30%**
+- Used **Prisma ORM** for type-safe database modeling and optimized query performance across activity logs
 
-<br/>
+---
 
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ github --stats
-```
+## Projects
+
+### [MediCare — Patient Management System](https://patient-management-system-six-teal.vercel.app) `Live`
+
+`React 18` `Node.js` `Express` `Prisma` `PostgreSQL` `Supabase` `Groq LLaMA` `Zustand` `Tailwind CSS`
+
+A production-ready healthcare platform with dual portals for doctors and patients.
+
+- **RBAC** with JWT auth, Supabase email verification, and NMC-verified doctor badges
+- **AI Symptom Checker** via Groq LLaMA — returns conditions, severity levels, and specialist routing
+- Doctor portal: appointments, prescriptions, patient management, live dashboards
+- Patient portal: booking, vitals tracking, prescription history, medical records
+- Deployed on **Vercel + Render + Supabase**
+
+---
+
+### [Codesphere — Discussion Forum](https://github.com/Samarth1542005)
+
+`MERN Stack` `JWT` `Bcrypt` `MongoDB` `Bootstrap`
+
+- Secure session management using **JWT + Bcrypt** encryption
+- Flexible NoSQL schema supporting nested threads and polymorphic user-tag associations
+- Custom **RegEx + DB indexing** search system with **40% reduction** in query latency
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| 🎓 CGPA | **9.5 / 10** — PICT Pune |
+| 📊 MHT-CET | Top **1.1%** across Maharashtra |
+| 🪖 NDA / SSB | Interview Cleared |
+| 🍕 CodeChef | Peak Rating **1544** (Starters 228) |
+| 💻 LeetCode | **250+ problems** — DSA, Graphs, Dynamic Programming |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samarth1542005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth1542005&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9&stroke=00ff41" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth1542005&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth1542005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9EF7&icon_color=6E9EF7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth1542005&theme=tokyonight&hide_border=true&background=0d1117&ring=6E9EF7&fire=6E9EF7&currStreakLabel=6E9EF7" width="48%"/>
 
 </div>
 
-<br/>
-
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ ./contribution-snake.sh
-```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Samarth1542005/Samarth1542005/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</div>
-
-<br/>
-
-```bash
-┌──(samarth㉿pict)-[~/profile]
-└─$ echo "open to opportunities & collabs"
-open to opportunities & collabs
-
-┌──(samarth㉿pict)-[~/profile]
-└─$ _
-```
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/samarth-raut)
-[![Mail](https://img.shields.io/badge/Drop_a_Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:rautsamarth282@gmail.com)
+**Open to internships, collaborations, and interesting problems.**
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00ff41&height=120&section=footer&reversal=true" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" width="100%"/>
 
 </div>
