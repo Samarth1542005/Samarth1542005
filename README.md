@@ -6,14 +6,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://patient-management-system-six-teal.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Samarth1542005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SamarthRaut154)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/samarth_raut)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Samarth1542005)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6E9EF7&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+applications;PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Integration;SDE+Intern+%40+PHICSIT+InfoTech+Pvt.+Ltd;NDA+Cleared+%7C+Top+1.1%25+MHT-CET+%7C+CGPA+9.333;400%2B+Problems+on+LeetCode+%7C+Peak+CodeChef+1572)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6E9EF7&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+applications;PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Integration;SDE+Intern+%40+PHICSIT+InfoTech+Pvt.+Ltd;NDA+Cleared+%7C+Top+1.1%25+MHT-CET+%7C+CGPA+9.333;300%2B+Problems+on+LeetCode+%7C+Peak+CodeChef+1572)](https://git.io/typing-svg)
 
 <br/>
 
@@ -105,13 +105,13 @@ Full-stack healthcare platform with dual portals for doctors and patients.
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Samarth1542005?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Samarth1542005/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SamarthRaut154?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/SamarthRaut154/)
 
 </div>
 
 | Platform | Stats |
 |---|---|
-| 🟡 **LeetCode** | 400+ problems — DSA, Graph Theory, Dynamic Programming |
+| 🟡 **LeetCode** | [306+ problems](https://leetcode.com/u/SamarthRaut154/) — DSA, Graph Theory, Dynamic Programming |
 | 🟤 **CodeChef** | Peak Rating **1572** (Starters 246) |
 
 ---
