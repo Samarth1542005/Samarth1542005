@@ -1,14 +1,23 @@
 <div align="center">
 
-# Samarth Raut
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samarth%20Raut&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.E.%20AI%20%26%20DS%20%40%20PICT%20Pune&descSize=18&descColor=ffffffcc&descAlignY=60" width="100%"/>
 
-**Full-Stack Developer · B.E. AI & Data Science, PICT Pune**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://patient-management-system-six-teal.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Samarth1542005)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/samarth_raut)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Samarth1542005)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6E9EF7&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+applications;PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Integration;SDE+Intern+%40+PHICSIT+InfoTech+Pvt.+Ltd;NDA+Cleared+%7C+Top+1.1%25+MHT-CET+%7C+CGPA+9.333;400%2B+Problems+on+LeetCode+%7C+Peak+CodeChef+1572)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Samarth1542005&label=Profile%20Views&color=6E9EF7&style=flat-square)
 
 </div>
 
@@ -16,119 +25,144 @@
 
 ## About
 
-Final-year B.E. student in AI & Data Science at **PICT Pune** (CGPA: 9.333), currently working as an **SDE Intern at PHICSIT InfoTech**, where I build backend systems on the PERN stack with JWT auth, RBAC, and real-time data pipelines. I focus on writing scalable, type-safe, production-grade code and enjoy applying ML/AI to practical problems.
+Software engineer and final-year B.E. student in AI & Data Science at **PICT Pune** (CGPA: 9.333). I build production-grade full-stack systems with clean architecture — currently interning at **PHICSIT InfoTech**, where I own backend design, API security, and data pipeline work on the PERN stack. Alongside web development, I apply ML/AI to practical problems and compete actively in DSA.
 
-- 🏛️ B.E. AI & Data Science, Pune Institute of Computer Technology — 2023–2027
-- 💼 SDE Intern, PHICSIT InfoTech Pvt. Ltd — Feb 2026–Present
-- 🏆 Top 1.1% in MHT-CET · NDA/SSB Interview Cleared
+- 🏛️ **Pune Institute of Computer Technology** — B.E. AI & DS, 2023–2027
+- 💼 **SDE Intern**, PHICSIT InfoTech Pvt. Ltd — Feb 2026 – May 2026
+- 🏆 Top **1.1%** in MHT-CET &nbsp;|&nbsp; NDA 151 Written Cleared &nbsp;|&nbsp; SSB Recommended, 33 SSB Bhopal
+- 🎯 **Department Head**, AI & DS — Training & Placement Cell, PICT
 - 📍 Pune, Maharashtra, India
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark" />
 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
 
 **Databases & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,docker&theme=dark" />
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,postman,figma,vscode&theme=dark" />
+
+</div>
 
 ---
 
 ## Experience
 
-**Software Development Intern — PHICSIT InfoTech Pvt. Ltd**
-*Feb 2026 – Present*
+**Software Development Intern — PHICSIT InfoTech Pvt. Ltd** &nbsp; `Feb 2026 – May 2026`
 
-- Architected a Campus Ambassador Portal on the PERN stack with 18+ secure REST API endpoints, JWT authentication, and role-based access control
-- Built an automated leaderboard engine using background processing to compute real-time rankings from ambassador submissions
-- Developed KPI dashboards syncing Google Sheets data via API, reducing manual data entry for the finance team by 30%
-- Used Prisma ORM for type-safe database modeling and optimized query performance across activity logs
+- Architected a scalable **Campus Ambassador Portal** end-to-end on the PERN stack — 18+ secure REST API endpoints with JWT authentication and Role-Based Access Control (RBAC)
+- Built an **automated Leaderboard Engine** using OOP-based background processing to compute rankings in real-time, with focus on code optimisation and performant query design
+- Used **Prisma ORM** for type-safe database modelling with complex SQL queries, improving debugging and performance for activity logs
 
 ---
 
 ## Projects
 
-### [MediCare — Patient Management System](https://patient-management-system-six-teal.vercel.app)
-`React` · `Node.js` · `Express` · `Prisma` · `PostgreSQL` · `Supabase` · `Groq LLaMA` · `Zustand`
+### [MediCare — Patient Management System](https://patient-management-system-six-teal.vercel.app) &nbsp; `Live ↗`
+`React` &nbsp;`Node.js` &nbsp;`Express` &nbsp;`Prisma` &nbsp;`PostgreSQL` &nbsp;`Supabase` &nbsp;`Groq LLaMA` &nbsp;`Zustand` &nbsp;`Tailwind CSS`
 
-Full-stack healthcare platform with separate doctor and patient portals.
-- RBAC with JWT auth, Supabase email verification, and NMC-verified doctor badges
-- AI Symptom Checker via Groq LLaMA — returns probable conditions, severity, and specialist routing
+Full-stack healthcare platform with dual portals for doctors and patients.
+- Secure RBAC with JWT auth, Supabase email verification, and **NMC-verified doctor badges**
+- **AI Symptom Checker & Medical Report Analyzer** via Groq LLaMA — conditions, severity levels, specialist routing, PDF/X-ray support
 - Doctor portal: appointments, prescriptions, patient management, live dashboards
 - Patient portal: booking, vitals tracking, prescription history, medical records
-- Deployed on Vercel (frontend) + Render (backend) + Supabase (auth/DB)
-
-### DeepShield — Deepfake Detection System
-`React` · `FastAPI` · `Node.js` · `PyTorch` · `Groq LLaMA`
-
-Multi-modal deepfake detection pipeline built for IgnitionVerse Hackathon — placed 6th out of 400+ teams.
-- Six detection engines spanning facial landmarks, skin texture, eye reflections, frequency artifacts, blend boundaries, and compression forensics
-- Ensemble of fine-tuned ViT and SigLIP models for image/video, wav2vec2 for audio
-- Groq LLaMA used to generate natural-language explanations of detection results
-
-### AlphaSignal — Stock Prediction Platform
-`FastAPI` · `React` · `LSTM` · `FinBERT`
-
-- LSTM-based price prediction with RSI/MACD technical indicators and FinBERT-based news sentiment
-- Multi-source news fetching with fallback chain (NewsAPI → Yahoo RSS → Finnhub)
-- Backtesting engine built on yfinance; deployed via Hugging Face Spaces (backend) and Vercel (frontend)
-
-### Codesphere — Discussion Forum
-`MERN Stack` · `JWT` · `Bcrypt` · `MongoDB`
-
-- Secure session management using JWT and bcrypt
-- Flexible NoSQL schema supporting nested threads and polymorphic user-tag associations
-- Custom regex + DB-indexing search system, cutting query latency by 40%
+- Deployed on **Vercel + Render + Supabase**
 
 ---
 
-## Achievements
+### AlphaSignal — AI Stock Predictor &nbsp; [`GitHub ↗`](https://github.com/Samarth1542005)
+`React.js` &nbsp;`FastAPI` &nbsp;`TensorFlow` &nbsp;`FinBERT` &nbsp;`PostgreSQL`
+
+- Trained a two-layer **LSTM** on 2 years of OHLCV data with RSI/MACD indicators for on-demand 7-day price forecasts
+- Used **FinBERT** to score live news sentiment and pipe into a BUY/SELL/HOLD recommendation engine
+- Multi-source news fetching with fallback chain (NewsAPI → Yahoo RSS → Finnhub); deployed on **Hugging Face Spaces + Vercel**
+
+---
+
+### DeepShield — Deepfake Detection &nbsp; `🏆 6th / 400+ teams — IgnitionVerse Hackathon`
+`React` &nbsp;`FastAPI` &nbsp;`PyTorch` &nbsp;`ViT` &nbsp;`SigLIP` &nbsp;`Groq LLaMA`
+
+- Multi-modal detection pipeline: 6 engines across facial landmarks, skin texture, frequency artifacts, blend boundaries, and compression forensics
+- **Ensemble of fine-tuned ViT + SigLIP** for image/video; wav2vec2 for audio deepfakes
+- Groq LLaMA generates natural-language explanations of detection verdicts
+
+---
+
+## Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Samarth1542005?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Samarth1542005/)
+
+</div>
+
+| Platform | Stats |
+|---|---|
+| 🟡 **LeetCode** | 400+ problems — DSA, Graph Theory, Dynamic Programming |
+| 🟤 **CodeChef** | Peak Rating **1572** (Starters 246) |
+
+---
+
+## Achievements & Leadership
 
 | | |
 |---|---|
-| CGPA | 9.333 / 10 — PICT Pune |
-| MHT-CET | Top 1.1% across Maharashtra |
-| NDA / SSB | Interview Cleared |
-| CodeChef | Peak rating 1544 |
-| LeetCode | 250+ problems solved (DSA, Graphs, DP) |
+| 🎓 **CGPA** | 9.333 / 10 — PICT Pune |
+| 📊 **MHT-CET** | Top 1.1% across Maharashtra |
+| 🪖 **NDA / SSB** | NDA 151 Written Cleared · Recommended by 33 SSB, Bhopal |
+| 🏆 **IgnitionVerse Hackathon** | 6th place out of 400+ teams |
+| 🎙️ **TEDx PICT** | Core Member — Operations, Curation & Content |
+| 📋 **T&P Cell** | Department Head, AI & DS |
+| 🏫 **Class Representative** | TE12, PICT (2024 – Present) |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Samarth1542005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9EF7&icon_color=6E9EF7&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth1542005&theme=tokyonight&hide_border=true&background=0d1117&ring=6E9EF7&fire=6E9EF7&currStreakLabel=6E9EF7" width="48%"/>
+
+<br/><br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarth1542005&theme=tokyonight" width="96%"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samarth1542005/Samarth1542005/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Samarth1542005/Samarth1542005/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-Open to SDE and full-stack roles — feel free to reach out.
+**Open to SDE, full-stack, and AI/ML roles — placements starting August 2026.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
