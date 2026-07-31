@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samarth%20Raut&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.E.%20AI%20%26%20DS%20%40%20PICT%20Pune&descSize=18&descColor=ffffffcc&descAlignY=60" width="100%"/>
+# Hi, I'm Samarth Raut 👋
+
+### Full-Stack Developer · B.E. AI & Data Science @ PICT Pune
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://patient-management-system-six-teal.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SamarthRaut154)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/samarth_raut)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Samarth1542005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut-028835281)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patient-management-system-six-teal.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SamarthRaut154)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/samarth_raut)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6E9EF7&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+applications;PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Integration;SDE+Intern+%40+PHICSIT+InfoTech+Pvt.+Ltd;NDA+Cleared+%7C+Top+1.1%25+MHT-CET+%7C+CGPA+9.333;300%2B+Problems+on+LeetCode+%7C+Peak+CodeChef+1572)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=6E9EF7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;PERN+%7C+MERN+%7C+TypeScript+%7C+AI+Integration;SDE+Intern+%40+PHICSIT+InfoTech+Pvt.+Ltd;NDA+Cleared+%7C+Top+1.1%25+MHT-CET+%7C+CGPA+9.333;300%2B+LeetCode+Problems+%7C+CodeChef+Peak+1572)](https://github.com/Samarth1542005)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Samarth1542005&label=Profile%20Views&color=6E9EF7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Samarth1542005&label=Profile+Views&color=6E9EF7&style=flat-square)
 
 </div>
 
@@ -163,6 +164,6 @@ Full-stack healthcare platform with dual portals for doctors and patients.
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-raut)
 [![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rautsamarth282@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
 
 </div>
